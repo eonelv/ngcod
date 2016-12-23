@@ -1,0 +1,45 @@
+2016/12/23 17:06:00 E [main.go(38)] : ------------------start server----------------------- 
+2016/12/23 18:12:47 E [TCPProcessor.go(207)] : there is no user <nil> 
+2016/12/23 18:12:47 E [TCPProcessor.go(123)] : close of nil channel 
+2016/12/23 18:12:47 E [TCPProcessor.go(70)] : Read Data Error, maybe the socket is closed!   0 
+2016/12/23 18:12:47 E [TCPProcessor.go(53)] : close of nil channel 
+2016/12/23 18:20:09 E [TCPProcessor.go(70)] : Read Data Error, maybe the socket is closed!   100100000000002 
+2016/12/23 18:20:09 E [TCPProcessor.go(53)] : close of closed channel 
+2016/12/23 18:21:52 E [TCPProcessor.go(70)] : Read Data Error, maybe the socket is closed!   0 
+2016/12/23 18:21:52 E [TCPProcessor.go(53)] : close of nil channel 
+2016/12/23 18:25:18 E [TCPProcessor.go(70)] : Read Data Error, maybe the socket is closed!   100100000000002 
+2016/12/23 18:25:18 E [TCPProcessor.go(53)] : close of closed channel 
+2016/12/23 18:25:41 E [TCPProcessor.go(70)] : Read Data Error, maybe the socket is closed!   0 
+2016/12/23 18:25:41 E [TCPProcessor.go(53)] : close of nil channel 
+2016/12/23 18:26:08 E [TCPProcessor.go(70)] : Read Data Error, maybe the socket is closed!   0 
+2016/12/23 18:26:08 E [TCPProcessor.go(53)] : close of nil channel 
+2016/12/23 18:26:18 E [TCPProcessor.go(207)] : there is no user <nil> 
+2016/12/23 18:26:18 E [TCPProcessor.go(123)] : close of nil channel 
+2016/12/23 18:26:18 E [TCPProcessor.go(70)] : Read Data Error, maybe the socket is closed!   0 
+2016/12/23 18:26:18 E [TCPProcessor.go(53)] : close of nil channel 
+2016/12/23 18:27:30 E [TCPProcessor.go(70)] : Read Data Error, maybe the socket is closed!   100100000000002 
+2016/12/23 18:27:30 E [TCPProcessor.go(53)] : close of closed channel 
+2016/12/23 18:32:05 E [TCPProcessor.go(207)] : there is no user <nil> 
+2016/12/23 18:32:05 E [TCPProcessor.go(123)] : close of nil channel 
+2016/12/23 18:32:05 E [TCPProcessor.go(70)] : Read Data Error, maybe the socket is closed!   0 
+2016/12/23 18:32:05 E [TCPProcessor.go(53)] : close of nil channel 
+2016/12/23 18:56:04 E [TCPProcessor.go(70)] : Read Data Error, maybe the socket is closed!   100100000000002 
+2016/12/23 18:56:04 E [TCPProcessor.go(53)] : close of closed channel 
+2016/12/23 19:05:02 E [msgMessage.go(50)] : Message Talk::cant send message to self 
+2016/12/23 19:05:24 E [TCPProcessor.go(70)] : Read Data Error, maybe the socket is closed!   100100000000002 
+2016/12/23 19:05:24 E [TCPProcessor.go(53)] : close of closed channel 
+2016/12/23 19:05:34 E [TCPProcessor.go(206)] : there is no user <nil> 
+2016/12/23 19:05:34 E [TCPProcessor.go(123)] : close of nil channel 
+2016/12/23 19:05:34 E [TCPProcessor.go(70)] : Read Data Error, maybe the socket is closed!   0 
+2016/12/23 19:05:34 E [TCPProcessor.go(53)] : close of nil channel 
+2016/12/23 19:06:57 E [TCPProcessor.go(206)] : there is no user <nil> 
+2016/12/23 19:06:57 E [TCPProcessor.go(123)] : close of nil channel 
+2016/12/23 19:06:57 E [TCPProcessor.go(70)] : Read Data Error, maybe the socket is closed!   0 
+2016/12/23 19:06:57 E [TCPProcessor.go(53)] : close of nil channel 
+2016/12/23 19:07:35 E [TCPProcessor.go(70)] : Read Data Error, maybe the socket is closed!   0 
+2016/12/23 19:07:35 E [TCPProcessor.go(53)] : close of nil channel 
+2016/12/23 19:23:03 E [msgMessage.go(50)] : Message Talk::cant send message to self 
+2016/12/23 19:23:39 E [TCPProcessor.go(70)] : Read Data Error, maybe the socket is closed!   100100000000002 
+2016/12/23 19:23:39 E [TCPProcessor.go(53)] : close of closed channel 
+2016/12/23 19:23:40 E [TCPProcessor.go(70)] : Read Data Error, maybe the socket is closed!   100100000000003 
+2016/12/23 19:23:40 E [TCPProcessor.go(53)] : close of closed channel 

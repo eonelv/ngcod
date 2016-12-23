@@ -1,0 +1,23 @@
+2016/12/23 16:52:46 [msgMessage.go(11)] Info: Registor message 1006 
+2016/12/23 16:52:46 [msgAccount.go(17)] Info: Registor message 1007 
+2016/12/23 16:52:46 [msgFinancing.go(17)] Info: Registor message 1008 
+2016/12/23 16:52:46 [main.go(37)] Info: ------------------start server----------------------- 
+2016/12/23 16:52:46 [dbmgr.go(54)] Info: select (id / ?) as serverplat, max(id) as maxid from t_bd_user group by (id / ?) [100000000 100000000] 
+2016/12/23 16:52:46 [idgenerator.go(45)] Info: 创建Channel 1001000 
+2016/12/23 16:52:46 [idgenerator.go(27)] Info: 写入ID 100100000000006 
+2016/12/23 16:53:29 [msgMessage.go(11)] Info: Registor message 1006 
+2016/12/23 16:53:29 [msgAccount.go(17)] Info: Registor message 1007 
+2016/12/23 16:53:29 [msgFinancing.go(17)] Info: Registor message 1008 
+2016/12/23 16:53:29 [main.go(37)] Info: ------------------start server----------------------- 
+2016/12/23 16:53:29 [main.go(38)] Error: ------------------start server----------------------- 
+2016/12/23 16:53:29 [dbmgr.go(54)] Info: select (id / ?) as serverplat, max(id) as maxid from t_bd_user group by (id / ?) [100000000 100000000] 
+2016/12/23 16:53:29 [idgenerator.go(45)] Info: 创建Channel 1001000 
+2016/12/23 16:53:29 [idgenerator.go(27)] Info: 写入ID 100100000000006 
+2016/12/23 16:53:56 [msgMessage.go(11)] Info: Registor message 1006 
+2016/12/23 16:53:56 [msgAccount.go(17)] Info: Registor message 1007 
+2016/12/23 16:53:56 [msgFinancing.go(17)] Info: Registor message 1008 
+2016/12/23 16:53:56 [main.go(37)] Info: ------------------start server----------------------- 
+2016/12/23 16:53:56 [main.go(38)] Error: ------------------start server----------------------- 
+2016/12/23 16:53:56 [dbmgr.go(54)] Info: select (id / ?) as serverplat, max(id) as maxid from t_bd_user group by (id / ?) [100000000 100000000] 
+2016/12/23 16:53:56 [idgenerator.go(45)] Info: 创建Channel 1001000 
+2016/12/23 16:53:56 [idgenerator.go(27)] Info: 写入ID 100100000000006 
