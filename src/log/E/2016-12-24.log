@@ -1,0 +1,7 @@
+2016/12/24 17:25:41 E [msgMessage.go(50)] : Message Talk::cant send message to self 
+2016/12/24 17:25:53 E [msgMessage.go(50)] : Message Talk::cant send message to self 
+2016/12/24 17:26:01 E [msgMessage.go(50)] : Message Talk::cant send message to self 
+2016/12/24 17:26:13 E [TCPProcessor.go(70)] : Read Data Error, maybe the socket is closed!   100100000000003 
+2016/12/24 17:26:13 E [TCPProcessor.go(53)] : close of closed channel 
+2016/12/24 17:26:14 E [TCPProcessor.go(70)] : Read Data Error, maybe the socket is closed!   100100000000002 
+2016/12/24 17:26:14 E [TCPProcessor.go(53)] : close of closed channel 
